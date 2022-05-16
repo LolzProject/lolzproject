@@ -9,5 +9,8 @@ function githubPage() {
 }
 
 function contactUs() {
-  document.write("<br><p>We have no contact section, :P</p>")
+  // Send Error on Webpage
+  document.open();
+  document.write("<br><p>We have no contact section, :P</p>");
+  document.close();
 }
