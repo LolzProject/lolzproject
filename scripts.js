@@ -4,6 +4,6 @@ if (x == "testing") {
 }
 
 function githubPage() {
-  window.alert("Redirecting...")
+  window.alert("Opening")
   window.open("https://github.com/LolzProject");
 }
