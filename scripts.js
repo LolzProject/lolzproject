@@ -9,5 +9,5 @@ function githubPage() {
 }
 
 function contactUs() {
-  document.write(<br><p>We have no contact section, :P</p>)
+  document.write("<br><p>We have no contact section, :P</p>")
 }
